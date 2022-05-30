@@ -7,7 +7,7 @@
 
 ✔ Możliwość stworzenia własnego mema i pobrania go na dysk.
 
-✔ Głosowanie ne wybranego memea roku.
+✔ Głosowanie ne wybranego mema roku.
 
 ✔ Strona jest responsywna.
 
