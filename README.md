@@ -12,17 +12,18 @@
 ✔ Strona jest responsywna.
 
 
-## Technologie
+## Technologis
 
 ✅ HTML
 ✅ Material UI
 ✅ React JS
 
-Pobierz repozytorium i uruchom je lokalnie:
+### `npm install`
 
-`$ npm install`
+### `npm start`
 
-`$ npm start`
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![Zrzut ekranu 2022-05-30 074511](https://user-images.githubusercontent.com/92208474/170926442-36cdaee7-bb5a-4472-8a4d-709a36cc41f9.jpg)
 
