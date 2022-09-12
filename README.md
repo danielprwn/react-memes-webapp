@@ -1,13 +1,13 @@
 # Best Memes react Web App.
 
 
-✔ Możliwość głosowania na wybrane memy (⬆ like, unlike ⬇).
+✔ Possibility to vote on selected memes. (⬆ like, unlike ⬇).
 
-✔ Możliwość stworzenia własnego mema i pobrania go na dysk.
+✔ Possibility to create your own meme and download it to disk.
 
-✔ Głosowanie ne wybranego mema roku.
+✔ Vote for your chosen meme of the year.
 
-✔ Strona jest responsywna.
+✔ The website is responsive.
 
 
 ## Technologis
