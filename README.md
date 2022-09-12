@@ -1,4 +1,4 @@
-# Best Memes react Web App.
+# Best Memes React Web App.
 
 
 ✔ Possibility to vote on selected memes. (⬆ like, unlike ⬇).
@@ -29,6 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![Zrzut ekranu 2022-05-30 074625](https://user-images.githubusercontent.com/92208474/170926458-3f2457d2-c5e2-4173-b1ff-fdcc42f23c5f.jpg)
 
-Wersja mobilna 👇
+Mobile 👇
 
 ![Zrzut ekranu 2022-05-30 074651](https://user-images.githubusercontent.com/92208474/170926464-7cbb05cf-7e00-4588-85f5-1d1aaae16738.jpg)
