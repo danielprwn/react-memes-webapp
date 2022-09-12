@@ -1,6 +1,4 @@
-# BEST MEMES WEBSITE APP
-
-# Project aplikacji webowej w technologii - React JS
+# Best Memes react Web App.
 
 
 ✔ Możliwość głosowania na wybrane memy (⬆ like, unlike ⬇).
